@@ -5,8 +5,8 @@
     "exe": "https://github.com/gsinvest017-ai/gs-codex-auto-ai-releases/releases/download/app-v0.2.3/CodexAutoAI-setup-0.2.3.exe"
   },
   "ext": {
-    "version": "0.9.0",
-    "tag": "ext-v0.9.0",
-    "vsix": "https://github.com/gsinvest017-ai/gs-codex-auto-ai-releases/releases/download/ext-v0.9.0/codexautoai-0.9.0.vsix"
+    "version": "0.9.1",
+    "tag": "ext-v0.9.1",
+    "vsix": "https://github.com/gsinvest017-ai/gs-codex-auto-ai-releases/releases/download/ext-v0.9.1/codexautoai-0.9.1.vsix"
   }
 }
